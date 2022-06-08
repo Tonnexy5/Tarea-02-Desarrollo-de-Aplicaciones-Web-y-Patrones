@@ -1,0 +1,319 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: center;
+    padding: 20px;
+}
+
+
+
+.form {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto1 {
+    width: 100%;
+    margin: 0%;
+    width: 65px;
+
+    height: 65px;
+    left: 100px;
+    position: relative;
+    top: -50px;
+
+}
+
+.foto2 {
+    width: 100%;
+    margin: 0%;
+    width: 65px;
+
+    height: 65px;
+    right: -995px;
+    position: relative;
+    top: -110px;
+}
+.back {
+    width: 100%;
+    margin: 0%;
+    width: 65px;
+
+    height: 65px;
+    left: 12px;
+    position: relative;
+    bottom: -14px;
+    top: 10px;
+    display: block;
+}
+
+.audio1{
+
+
+    width: 100%;
+    margin: 0%;
+    width: 65px;
+
+    height: 65px;
+    right: -50px;
+    position: relative;
+    top: -70px;
+
+}
+.audio2{
+
+
+    width: 100%;
+    margin: 0%;
+    width: 65px;
+
+    height: 65px;
+    right: -50px;
+    position: relative;
+    top: 50px;
+
+}
+.audio3{
+
+
+    width: 100%;
+    margin: 0%;
+    width: 65px;
+
+    height: 65px;
+    right: -50px;
+    position: relative;
+    top: 170px;
+
+}
+
+.audio4{
+
+
+    width: 100%;
+    margin: 0%;
+    width: 65px;
+
+    height: 65px;
+    right: -50px;
+    position: relative;
+    top: 290px;
+
+}
+
+
+.audio5{
+
+
+    width: 100%;
+    margin: 0%;
+    width: 65px;
+
+    height: 65px;
+    right: -50px;
+    position: relative;
+    top: 410px;
+
+}
+
+.perfil {
+    width: 100%;
+    margin: 0%;
+    width: 65px;
+
+    height: 65px;
+    left: 1370px;
+    position: relative;
+    bottom: -14px;
+    top: -440px;
+    displ6y: block;
+}
+
+.imagenDePerfil {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: center;
+    padding: 20px;
+}
+
+.marcopro{
+    
+    width: 100%;
+    margin: 0%;
+    width: 65px;
+
+    height: 65px;
+    left: 436px;
+    position: relative;
+    top: -300px;
+}
+
+.nombreDePerfil {
+    display: flex;
+    justify-content: center;
+    bottom: -14px;
+
+    font: 250% alfa slab one;
+}
+
+.TusVideos {
+    
+    font: 250% alfa slab one;
+    
+}
+
+.audioP1{
+    
+    
+    margin: 0%;
+    width: 300px;
+
+    height: 65px;
+    right: -1020px;
+    position: relative;
+    top: 70px;
+    
+}
+
+.audioP2{
+    
+    
+    margin: 0%;
+    width: 300px;
+
+    height: 65px;
+    right: -1020px;
+    position: relative;
+    top: 160px;
+    
+}
+
+
+.audioP3{
+    
+    margin: 0%;
+    width: 300px;
+
+    height: 65px;
+    right: -1020px;
+    position: relative;
+    top: 250px;
+    
+}
+
+.videoP1{
+    
+    
+    margin: 0%;
+    width: 1px;
+
+    height: 65px;
+    right: -180px;
+    position: relative;
+    top: -150px;
+    
+    
+}
+
+.videoP2{
+    
+    
+    margin: 0%;
+    width: 1px;
+
+    height: 65px;
+    right: -180px;
+    position: relative;
+    top: 50px;
+    
+    
+}
+
+.videoP3{
+    
+    
+    margin: 0%;
+    width: 1px;
+
+    height: 65px;
+    right: -180px;
+    position: relative;
+    top: 250px;
+    
+    
+}
+
+.SubirVideo{
+    margin: 0%;
+    width: 1px;
+
+    height: 65px;
+    right: -1320px;
+    position: relative;
+    top: -1010px;
+    
+    
+}
+
+.SubIr{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    background: center;
+    padding: 20px;
+    
+    
+}
+
+.SubIrTexto{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    background: center;
+    padding: 20px;
+    font: 250% alfa slab one;
+    
+    
+}
+
+.SubIrR{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: center;
+    padding: 0px;
+    
+   
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
